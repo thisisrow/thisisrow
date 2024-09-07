@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Scorecard Project
+- 🔭 I’m currently working on NSS Appication Project
 - 🌱 I’m currently learning ReatJs,NodeJS,mongoDB
 - 🤔 I’m looking for help with API
 - 💬 Ask me about Anime and Gaming
