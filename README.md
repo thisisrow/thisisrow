@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on NSS Appication Project
 - 🌱 I’m currently learning ReatJs,NodeJS,mongoDB
 - 🤔 I’m looking for help with API
-- 💬 Ask me about Anime and Gaming
 - 📫 How to reach me: instagaram id-prathameshm101;
 - ⚡  The future is thrilling, and truly fascinating.
 
