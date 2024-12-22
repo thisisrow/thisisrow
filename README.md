@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on NSS Appication Project
 - 🌱 I’m currently learning ReatJs,NodeJS,mongoDB
 - 🤔 I’m looking for help with API
 - 📫 How to reach me: instagaram id-prathameshm101;
