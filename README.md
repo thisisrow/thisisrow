@@ -1,5 +1,7 @@
 ## Hi there 👋
-Potflio =>https://portfolio-psi-six-30.vercel.app/
+Potflio =><a href="https://portfolio-psi-six-30.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+  Link
+</a>
 - 🌱 I’m currently learning ReatJs,NodeJS,mongoDB
 - 🤔 I’m looking for help with API
 - 📫 How to reach me: instagaram id-prathameshm101;
